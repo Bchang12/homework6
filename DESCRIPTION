@@ -1,0 +1,11 @@
+Package: homework
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <kimb12@vcu.edu>
+Description: This package is used to find a length of side leg a, b or hypotenuse for right triagles. Or, it is used to find a trimmed mean.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
